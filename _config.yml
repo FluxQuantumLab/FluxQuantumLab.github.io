@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "plum" # "default", "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "$\\Phi_0$" # We need two \\ for MathJax?
+title                    : "Flux Quantum Lab ($\\Phi_0$)" # We need two \\ for MathJax?
 title_separator          : "-"
-subtitle                 : "Flux Quantum Lab" # site tagline that appears below site title in masthead
+subtitle                 : # "Flux Quantum Lab" # site tagline that appears below site title in masthead
 name                     : "Flux Quantum Lab"
 description              : "Research group in mesoscopic physics."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
