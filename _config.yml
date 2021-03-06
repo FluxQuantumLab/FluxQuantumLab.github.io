@@ -12,11 +12,11 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "plum" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "$\\Phi_0$" # We need two \\ for MathJax?
+title                    : "Φ₀" # We need two \\ for MathJax?
 title_separator          : "-"
 subtitle                 : # "Flux Quantum Lab" # site tagline that appears below site title in masthead
 name                     : "Flux Quantum Lab"
