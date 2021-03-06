@@ -1,8 +1,7 @@
 ---
 mathjax: true
+title: "Flux Quantum Lab (Φ₀)"
 ---
-
-# Flux Quantum Lab (Φ₀)
 
 The Flux Quantum Lab (Φ₀) is an experimental condensed matter physics lab at the Young Team Incubator in the Physics Institute, Collège de France, Paris.
 

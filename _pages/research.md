@@ -1,8 +1,8 @@
 ---
 mathjax: true
+permalink: /research/
+title: "Research"
 ---
-
-# Research Projects
 
 ## Spectrometer
 
