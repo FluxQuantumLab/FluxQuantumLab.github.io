@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Φ₀" # We need two \\ for MathJax?
 title_separator          : "-"
 subtitle                 : # "Flux Quantum Lab" # site tagline that appears below site title in masthead
-name                     : "Flux Quantum Lab"
+name                     : "Flux Quantum Lab (Φ₀)"
 description              : "Research group in mesoscopic physics."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -209,7 +209,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /publications/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
